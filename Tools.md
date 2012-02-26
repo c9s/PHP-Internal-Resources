@@ -7,6 +7,7 @@ OpCode tools:
 * ext/vld extension: dump opcode from AST.
 * ext/bytekit
 * ext/parse\_tree
+* ext/parsekit
 
 OpCode Cacher:
 
