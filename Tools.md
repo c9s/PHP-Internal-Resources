@@ -4,8 +4,9 @@ Tools
 
 OpCode tools:
 
-* vld extension: dump opcode from AST.
-* bytekit
+* ext/vld extension: dump opcode from AST.
+* ext/bytekit
+* ext/parse\_tree
 
 OpCode Cacher:
 
